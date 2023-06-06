@@ -1,0 +1,1 @@
+alert("I am alert comming from outside the browser")
